@@ -1,0 +1,10 @@
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\bin\WebApi.ServiceLayer.dll.config
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\bin\WebApi.ServiceLayer.dll
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\bin\WebApi.ServiceLayer.pdb
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\obj\Release\WebApi.ServiceLayer.csproj.AssemblyReference.cache
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\obj\Release\WebApi.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\obj\Release\WebApi.ServiceLayer.csproj.CopyComplete
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\obj\Release\WebApi.ServiceLayer.dll
+C:\AzTraining\Products.WebApi\WebApi.ServiceLayer\obj\Release\WebApi.ServiceLayer.pdb
